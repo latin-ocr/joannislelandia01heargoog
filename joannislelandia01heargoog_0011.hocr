@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannislelandia01heargoog_0011.png"; bbox 0 0 2850 4850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 382 1378 2370 2140">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 382 1338 2370 2140">
+     <span class='ocr_line' id='line_1_1' title="bbox 408 1378 2370 1559; baseline 0.003 -52"><span class='ocrx_word' id='word_1_1' title='bbox 408 1378 1288 1559; x_wconf 61' lang='lat' dir='ltr'><em>JOANNJS</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1379 1386 1640 1511; x_wconf 81' lang='lat' dir='ltr'><strong>LE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1669 1392 2370 1512; x_wconf 84' lang='lat' dir='ltr'><em>LANDJ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 382 1626 2105 1882; baseline -0.001 -59"><span class='ocrx_word' id='word_1_4' title='bbox 382 1626 401 1643; x_wconf 21' lang='grc' dir='ltr'><strong>ἡ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 634 1643 2105 1882; x_wconf 53' lang='grc' dir='ltr'><strong>ΑΝΤἸ·(ζΠ,ΑΙζΙΙ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 399 2019 2244 2140; baseline 0.004 -25"><span class='ocrx_word' id='word_1_6' title='bbox 399 2024 664 2140; x_wconf 71' lang='grc' dir='ltr'><strong> Ι)ε</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 758 2019 1079 2117; x_wconf 86' lang='lat' dir='ltr'>Rebus</span> <span class='ocrx_word' id='word_1_8' title='bbox 1174 2027 2244 2123; x_wconf 85' lang='lat' dir='ltr'><strong>BRITANNICIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 363 2254 2395 2460">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 363 2254 2395 2460">
+     <span class='ocr_line' id='line_1_4' title="bbox 363 2254 2395 2460; baseline 0.003 -6"><span class='ocrx_word' id='word_1_9' title='bbox 363 2254 2395 2460; x_wconf 78' lang='lat' dir='ltr'>COLLECTANEORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 828 2647 2104 2780">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 828 2647 2104 2780">
+     <span class='ocr_line' id='line_1_5' title="bbox 828 2647 2104 2780; baseline -0.002 -18"><span class='ocrx_word' id='word_1_10' title='bbox 828 2647 1241 2780; x_wconf 52' lang='lat' dir='ltr'>TQMqu</span> <span class='ocrx_word' id='word_1_11' title='bbox 1341 2680 1914 2774; x_wconf 76' lang='lat' dir='ltr'>TERTIUS,</span> <span class='ocrx_word' id='word_1_12' title='bbox 2097 2669 2104 2678; x_wconf 74' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 452 3771 1470 3869">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 452 3771 1470 3869">
+     <span class='ocr_line' id='line_1_6' title="bbox 452 3771 1470 3869; baseline 0 -16"><span class='ocrx_word' id='word_1_13' title='bbox 452 3783 645 3853; x_wconf 66' lang='lat' dir='ltr'><strong>Tou.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 676 3779 791 3852; x_wconf 80' lang='lat'>111.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1034 3831 1037 3834; x_wconf 25' lang='grc' dir='ltr'><em>ψ</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1362 3771 1369 3780; x_wconf 85' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1404 3785 1470 3869; x_wconf 58' lang='lat' dir='ltr'><strong>&amp;A</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
